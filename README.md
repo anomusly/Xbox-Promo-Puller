@@ -64,8 +64,6 @@ Contact: [@anomus.ly](https://discord.com/users/1136625769628581928) on Discord
 
 <div align="center">
 
-⚠️ **Buy only from official seller - Beware of scams!**
-
 Made with ⚡ by @anomus.ly | Discord
 
 </div>
