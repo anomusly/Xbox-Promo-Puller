@@ -56,7 +56,7 @@ This tool pays for itself with just one valuable code found. Perfect for:
 
 ## 🛒 Get Started
 
-**Available Now:** [axilon.mysellauth.com](https://axilon.mysellauth.com)
+**Available Now** [axilon.mysellauth.com](https://axilon.mysellauth.com)
 
 Contact: [@anomus.ly](https://discord.com/users/1136625769628581928) on Discord
 
