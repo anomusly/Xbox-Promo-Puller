@@ -1,4 +1,4 @@
-# 🎮 Discord Promo Puller
+l# 🎮 Discord Promo Puller
 
 > **Advanced Discord Promotional Code Extractor & Validator**
 
@@ -64,6 +64,6 @@ Contact: [@anomus.ly](https://discord.com/users/1136625769628581928) on Discord
 
 <div align="center">
 
-Made with ⚡ by @anomus.ly | Discord
+Made with ⚡ by @anomus.ly | Discord!
 
 </div>
