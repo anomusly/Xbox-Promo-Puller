@@ -1,4 +1,4 @@
-l# 🎮 Discord Promo Puller
+l# 🎮 Discord Promo Puller [New Version Here](https://axilon.mysellauth.com/)
 
 > **Advanced Discord Promotional Code Extractor & Validator**
 
